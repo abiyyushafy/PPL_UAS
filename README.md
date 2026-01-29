@@ -12,9 +12,9 @@ Sesuai dengan tema UAS yaitu **Otomatisasi**, program ini meminimalkan intervens
 
 ## 👥 Informasi Kelompok
 Proyek ini disusun dan dikembangkan secara berkelompok oleh:
-1. **** - [NIM Anda]
-2. **[Nama Rekan 1]** - [NIM Rekan 1]
-3. **[Nama Rekan 2]** - [NIM Rekan 2]
+1. **Sarjana Nanda Pamungkas** - 23.83.1028
+2. **Abiyyu Shafy Hidayat** - 23.83.1035
+3. **Zulfi Rahmad Fathoni** - 23.83.1040
 
 **Dosen Pengampu:** Muhammad Koprawi, S.Kom., M.Eng 
 
