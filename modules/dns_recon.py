@@ -20,4 +20,5 @@ def get_subdomains(domain):
             return list(set(item['name_value'] for item in res.json()))
     except:
         return []
+
     return []
