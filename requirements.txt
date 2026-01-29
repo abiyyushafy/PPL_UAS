@@ -1,0 +1,5 @@
+dnspython
+requests
+pandas
+python-whois
+shodan
